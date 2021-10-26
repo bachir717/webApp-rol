@@ -1,0 +1,18 @@
+---
+namespace: community
+name: webapp-role
+version: 1.0.0
+readme: README.md
+authors:
+  - Cherif Bachir
+description: Install webapp
+license_file: COPYING
+tags:
+  - v1
+repository: https://github.com/bachir717/webApp-rol.git
+documentation: https://github.com/bachir717/webApp-rol.git
+homepage: https://github.com/bachir717/webApp-rol.git
+issues: https://github.com/bachir717/webApp-rol.git
+build_ignore:
+  - .gitignore
+ 

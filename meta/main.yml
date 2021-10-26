@@ -1,0 +1,6 @@
+---
+galaxy_info:
+  role_name: webapp_role
+  author: Bachir Cherif
+  description: Ansible webApp role
+  company: Bachir
